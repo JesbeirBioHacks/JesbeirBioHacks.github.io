@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Hello World
+title: Bioluminescent Film as Food Quality Marker
 ---
 
-# Title
+# Bioluminescent Film as Food Quality Marker - The Luminator
 
 ## Subtitle
 
