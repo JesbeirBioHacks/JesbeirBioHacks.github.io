@@ -7,7 +7,14 @@ title: Bioluminescent Film as Food Quality Marker
 
 ## The Plan
 
-Plan 1:
+<br><bold>
+<br>Plan 2:(more manageable)<br>
+<br>1. Investigate and Create "Protective" Biofilm Against Produce Contamination<br>
+<br>2. Coat Produce with Biofilm<br>
+<br>3. Find way of monitoring Biofilm and maintaining it for food quality maintenance<br>
+<bold><br>
+
+Plan 1:(too convoluted)
 A BioHack project - Food Safety Solutions with Biomarkers, Sensors and Dispensers In this project I aim to make a fresh greens storage and transport system that conserves the integrety (prevents from spoilage and or contamination) of the produce by monitoring the level of a coloured biomarker and reacting against the contamination by spraying the produce with baterial inhibitor.
 
 
@@ -22,9 +29,4 @@ This will involve the following research and experimental streams
 4. Testing and optimising the whole system
 
 
-<br><bold>
-Plan 2:
-1. Investigate and Create "Protective" Biofilm Against Produce Contamination
-2. Coat Produce with Biofilm
-3. Find way of monitoring Biofilm and maintaining it for food quality maintenance
-<bold><br>
+
