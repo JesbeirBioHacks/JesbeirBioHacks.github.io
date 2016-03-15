@@ -3,7 +3,6 @@ layout: post
 title: Bioluminescent Film as Food Quality Marker
 ---
 
-# Bioluminescent Film as Food Quality Marker 
 
 ## The Plan
 
